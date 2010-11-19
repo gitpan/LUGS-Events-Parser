@@ -1,5 +1,9 @@
 Revision history for Perl extension LUGS::Events::Parser.
 
+0.05  2010-11-19  <schubiger@cpan.org>
+
+ - Merged development version to stable.
+
 0.04_01  2010-07-31  <schubiger@cpan.org>
 
  - Decode entities with HTML::Entities instead of with HTML::Parser;
